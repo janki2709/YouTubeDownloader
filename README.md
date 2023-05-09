@@ -3,6 +3,11 @@
 This is a Youtube Downloader project  
 Enter the URL of the link and it will be downloaded.  
 
+install youtube_dl by command  
+pip install git+https://github.com/ytdl-org/youtube-dl.git@master#egg=youtube_dl   
+
+<------------------------------------------------------------------------------------>
+
 If you get an error running this code on mac  
 Error: Unable to extract uploader id - Youtube  
 
